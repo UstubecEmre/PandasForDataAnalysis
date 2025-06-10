@@ -1,0 +1,1299 @@
+[
+    {
+        "id": 1,
+        "title": "Anime Title 1",
+        "type": "Anime",
+        "genre": [
+            "Action",
+            "Sci-Fi",
+            "Adventure"
+        ],
+        "episodes_or_chapters": 152,
+        "status": "Hiatus",
+        "rating": 9.09,
+        "year": 1993
+    },
+    {
+        "id": 2,
+        "title": "Anime Title 2",
+        "type": "Anime",
+        "genre": [
+            "Romance"
+        ],
+        "episodes_or_chapters": 97,
+        "status": "Ongoing",
+        "rating": 6.88,
+        "year": 1999
+    },
+    {
+        "id": 3,
+        "title": "Anime Title 3",
+        "type": "Manga",
+        "genre": [
+            "Comedy",
+            "Mystery"
+        ],
+        "episodes_or_chapters": 66,
+        "status": "Completed",
+        "rating": 8.3,
+        "year": 2006
+    },
+    {
+        "id": 4,
+        "title": "Anime Title 4",
+        "type": "Manga",
+        "genre": [
+            "Horror",
+            "Romance",
+            "Mystery"
+        ],
+        "episodes_or_chapters": 193,
+        "status": "Completed",
+        "rating": 9.01,
+        "year": 2011
+    },
+    {
+        "id": 5,
+        "title": "Anime Title 5",
+        "type": "Manga",
+        "genre": [
+            "Sci-Fi",
+            "Mystery",
+            "Romance"
+        ],
+        "episodes_or_chapters": 22,
+        "status": "Completed",
+        "rating": 9.19,
+        "year": 2016
+    },
+    {
+        "id": 6,
+        "title": "Anime Title 6",
+        "type": "Anime",
+        "genre": [
+            "Slice of Life",
+            "Adventure",
+            "Comedy"
+        ],
+        "episodes_or_chapters": 39,
+        "status": "Completed",
+        "rating": 8.3,
+        "year": 1995
+    },
+    {
+        "id": 7,
+        "title": "Anime Title 7",
+        "type": "Manga",
+        "genre": [
+            "Drama",
+            "Slice of Life"
+        ],
+        "episodes_or_chapters": 161,
+        "status": "Completed",
+        "rating": 9.3,
+        "year": 2011
+    },
+    {
+        "id": 8,
+        "title": "Anime Title 8",
+        "type": "Anime",
+        "genre": [
+            "Horror",
+            "Drama",
+            "Mystery"
+        ],
+        "episodes_or_chapters": 23,
+        "status": "Completed",
+        "rating": 9.34,
+        "year": 1997
+    },
+    {
+        "id": 9,
+        "title": "Anime Title 9",
+        "type": "Manga",
+        "genre": [
+            "Comedy",
+            "Action"
+        ],
+        "episodes_or_chapters": 150,
+        "status": "Hiatus",
+        "rating": 7.51,
+        "year": 2002
+    },
+    {
+        "id": 10,
+        "title": "Anime Title 10",
+        "type": "Manga",
+        "genre": [
+            "Drama",
+            "Action",
+            "Horror"
+        ],
+        "episodes_or_chapters": 103,
+        "status": "Hiatus",
+        "rating": 6.63,
+        "year": 2011
+    },
+    {
+        "id": 11,
+        "title": "Anime Title 11",
+        "type": "Manga",
+        "genre": [
+            "Mystery",
+            "Sci-Fi"
+        ],
+        "episodes_or_chapters": 80,
+        "status": "Ongoing",
+        "rating": 9.23,
+        "year": 2015
+    },
+    {
+        "id": 12,
+        "title": "Anime Title 12",
+        "type": "Anime",
+        "genre": [
+            "Mystery"
+        ],
+        "episodes_or_chapters": 84,
+        "status": "Hiatus",
+        "rating": 6.55,
+        "year": 1999
+    },
+    {
+        "id": 13,
+        "title": "Anime Title 13",
+        "type": "Manga",
+        "genre": [
+            "Fantasy",
+            "Adventure"
+        ],
+        "episodes_or_chapters": 124,
+        "status": "Hiatus",
+        "rating": 8.17,
+        "year": 2006
+    },
+    {
+        "id": 14,
+        "title": "Anime Title 14",
+        "type": "Anime",
+        "genre": [
+            "Horror"
+        ],
+        "episodes_or_chapters": 140,
+        "status": "Completed",
+        "rating": 7.61,
+        "year": 1993
+    },
+    {
+        "id": 15,
+        "title": "Anime Title 15",
+        "type": "Anime",
+        "genre": [
+            "Horror"
+        ],
+        "episodes_or_chapters": 76,
+        "status": "Completed",
+        "rating": 9.44,
+        "year": 2001
+    },
+    {
+        "id": 16,
+        "title": "Anime Title 16",
+        "type": "Manga",
+        "genre": [
+            "Drama",
+            "Slice of Life",
+            "Adventure"
+        ],
+        "episodes_or_chapters": 101,
+        "status": "Hiatus",
+        "rating": 9.55,
+        "year": 2021
+    },
+    {
+        "id": 17,
+        "title": "Anime Title 17",
+        "type": "Manga",
+        "genre": [
+            "Adventure",
+            "Comedy"
+        ],
+        "episodes_or_chapters": 70,
+        "status": "Hiatus",
+        "rating": 8.6,
+        "year": 2002
+    },
+    {
+        "id": 18,
+        "title": "Anime Title 18",
+        "type": "Anime",
+        "genre": [
+            "Romance"
+        ],
+        "episodes_or_chapters": 187,
+        "status": "Hiatus",
+        "rating": 6.28,
+        "year": 2020
+    },
+    {
+        "id": 19,
+        "title": "Anime Title 19",
+        "type": "Anime",
+        "genre": [
+            "Drama",
+            "Action"
+        ],
+        "episodes_or_chapters": 169,
+        "status": "Ongoing",
+        "rating": 9.67,
+        "year": 2005
+    },
+    {
+        "id": 20,
+        "title": "Anime Title 20",
+        "type": "Manga",
+        "genre": [
+            "Adventure",
+            "Mystery",
+            "Drama"
+        ],
+        "episodes_or_chapters": 80,
+        "status": "Completed",
+        "rating": 8.73,
+        "year": 1994
+    },
+    {
+        "id": 21,
+        "title": "Anime Title 21",
+        "type": "Anime",
+        "genre": [
+            "Horror",
+            "Sci-Fi"
+        ],
+        "episodes_or_chapters": 15,
+        "status": "Completed",
+        "rating": 9.78,
+        "year": 2015
+    },
+    {
+        "id": 22,
+        "title": "Anime Title 22",
+        "type": "Anime",
+        "genre": [
+            "Slice of Life",
+            "Drama",
+            "Adventure"
+        ],
+        "episodes_or_chapters": 163,
+        "status": "Hiatus",
+        "rating": 6.08,
+        "year": 2011
+    },
+    {
+        "id": 23,
+        "title": "Anime Title 23",
+        "type": "Manga",
+        "genre": [
+            "Comedy",
+            "Adventure",
+            "Mystery"
+        ],
+        "episodes_or_chapters": 132,
+        "status": "Hiatus",
+        "rating": 8.45,
+        "year": 1994
+    },
+    {
+        "id": 24,
+        "title": "Anime Title 24",
+        "type": "Manga",
+        "genre": [
+            "Mystery"
+        ],
+        "episodes_or_chapters": 63,
+        "status": "Completed",
+        "rating": 7.3,
+        "year": 2001
+    },
+    {
+        "id": 25,
+        "title": "Anime Title 25",
+        "type": "Manga",
+        "genre": [
+            "Slice of Life"
+        ],
+        "episodes_or_chapters": 152,
+        "status": "Completed",
+        "rating": 9.64,
+        "year": 2023
+    },
+    {
+        "id": 26,
+        "title": "Anime Title 26",
+        "type": "Manga",
+        "genre": [
+            "Horror",
+            "Adventure"
+        ],
+        "episodes_or_chapters": 18,
+        "status": "Completed",
+        "rating": 6.97,
+        "year": 2022
+    },
+    {
+        "id": 27,
+        "title": "Anime Title 27",
+        "type": "Manga",
+        "genre": [
+            "Sci-Fi"
+        ],
+        "episodes_or_chapters": 190,
+        "status": "Completed",
+        "rating": 7.38,
+        "year": 2019
+    },
+    {
+        "id": 28,
+        "title": "Anime Title 28",
+        "type": "Manga",
+        "genre": [
+            "Slice of Life"
+        ],
+        "episodes_or_chapters": 167,
+        "status": "Hiatus",
+        "rating": 6.29,
+        "year": 2022
+    },
+    {
+        "id": 29,
+        "title": "Anime Title 29",
+        "type": "Anime",
+        "genre": [
+            "Fantasy",
+            "Romance",
+            "Drama"
+        ],
+        "episodes_or_chapters": 99,
+        "status": "Hiatus",
+        "rating": 9.25,
+        "year": 2006
+    },
+    {
+        "id": 30,
+        "title": "Anime Title 30",
+        "type": "Anime",
+        "genre": [
+            "Comedy"
+        ],
+        "episodes_or_chapters": 62,
+        "status": "Completed",
+        "rating": 9.17,
+        "year": 2018
+    },
+    {
+        "id": 31,
+        "title": "Anime Title 31",
+        "type": "Anime",
+        "genre": [
+            "Action",
+            "Fantasy",
+            "Horror"
+        ],
+        "episodes_or_chapters": 170,
+        "status": "Ongoing",
+        "rating": 8.88,
+        "year": 2000
+    },
+    {
+        "id": 32,
+        "title": "Anime Title 32",
+        "type": "Anime",
+        "genre": [
+            "Mystery"
+        ],
+        "episodes_or_chapters": 182,
+        "status": "Completed",
+        "rating": 7.3,
+        "year": 2024
+    },
+    {
+        "id": 33,
+        "title": "Anime Title 33",
+        "type": "Manga",
+        "genre": [
+            "Sci-Fi"
+        ],
+        "episodes_or_chapters": 91,
+        "status": "Ongoing",
+        "rating": 7.31,
+        "year": 2021
+    },
+    {
+        "id": 34,
+        "title": "Anime Title 34",
+        "type": "Manga",
+        "genre": [
+            "Sci-Fi",
+            "Comedy",
+            "Mystery"
+        ],
+        "episodes_or_chapters": 46,
+        "status": "Completed",
+        "rating": 7.46,
+        "year": 2020
+    },
+    {
+        "id": 35,
+        "title": "Anime Title 35",
+        "type": "Manga",
+        "genre": [
+            "Fantasy",
+            "Comedy"
+        ],
+        "episodes_or_chapters": 183,
+        "status": "Ongoing",
+        "rating": 9.35,
+        "year": 2017
+    },
+    {
+        "id": 36,
+        "title": "Anime Title 36",
+        "type": "Anime",
+        "genre": [
+            "Horror",
+            "Mystery"
+        ],
+        "episodes_or_chapters": 46,
+        "status": "Completed",
+        "rating": 7.7,
+        "year": 1994
+    },
+    {
+        "id": 37,
+        "title": "Anime Title 37",
+        "type": "Manga",
+        "genre": [
+            "Horror"
+        ],
+        "episodes_or_chapters": 77,
+        "status": "Completed",
+        "rating": 7.79,
+        "year": 2024
+    },
+    {
+        "id": 38,
+        "title": "Anime Title 38",
+        "type": "Manga",
+        "genre": [
+            "Sci-Fi"
+        ],
+        "episodes_or_chapters": 20,
+        "status": "Ongoing",
+        "rating": 8.78,
+        "year": 2016
+    },
+    {
+        "id": 39,
+        "title": "Anime Title 39",
+        "type": "Manga",
+        "genre": [
+            "Slice of Life",
+            "Drama",
+            "Fantasy"
+        ],
+        "episodes_or_chapters": 44,
+        "status": "Hiatus",
+        "rating": 8.72,
+        "year": 2010
+    },
+    {
+        "id": 40,
+        "title": "Anime Title 40",
+        "type": "Anime",
+        "genre": [
+            "Sci-Fi"
+        ],
+        "episodes_or_chapters": 99,
+        "status": "Completed",
+        "rating": 6.41,
+        "year": 2008
+    },
+    {
+        "id": 41,
+        "title": "Anime Title 41",
+        "type": "Manga",
+        "genre": [
+            "Horror"
+        ],
+        "episodes_or_chapters": 190,
+        "status": "Ongoing",
+        "rating": 9.07,
+        "year": 1993
+    },
+    {
+        "id": 42,
+        "title": "Anime Title 42",
+        "type": "Anime",
+        "genre": [
+            "Mystery",
+            "Romance",
+            "Adventure"
+        ],
+        "episodes_or_chapters": 45,
+        "status": "Hiatus",
+        "rating": 8.07,
+        "year": 2008
+    },
+    {
+        "id": 43,
+        "title": "Anime Title 43",
+        "type": "Anime",
+        "genre": [
+            "Drama",
+            "Mystery",
+            "Fantasy"
+        ],
+        "episodes_or_chapters": 176,
+        "status": "Hiatus",
+        "rating": 9.52,
+        "year": 2016
+    },
+    {
+        "id": 44,
+        "title": "Anime Title 44",
+        "type": "Anime",
+        "genre": [
+            "Romance",
+            "Adventure"
+        ],
+        "episodes_or_chapters": 141,
+        "status": "Ongoing",
+        "rating": 9.01,
+        "year": 1993
+    },
+    {
+        "id": 45,
+        "title": "Anime Title 45",
+        "type": "Anime",
+        "genre": [
+            "Drama"
+        ],
+        "episodes_or_chapters": 164,
+        "status": "Completed",
+        "rating": 9.13,
+        "year": 1995
+    },
+    {
+        "id": 46,
+        "title": "Anime Title 46",
+        "type": "Manga",
+        "genre": [
+            "Mystery"
+        ],
+        "episodes_or_chapters": 105,
+        "status": "Completed",
+        "rating": 9.08,
+        "year": 2008
+    },
+    {
+        "id": 47,
+        "title": "Anime Title 47",
+        "type": "Anime",
+        "genre": [
+            "Horror",
+            "Drama"
+        ],
+        "episodes_or_chapters": 138,
+        "status": "Ongoing",
+        "rating": 6.95,
+        "year": 2020
+    },
+    {
+        "id": 48,
+        "title": "Anime Title 48",
+        "type": "Manga",
+        "genre": [
+            "Drama",
+            "Action"
+        ],
+        "episodes_or_chapters": 135,
+        "status": "Ongoing",
+        "rating": 8.2,
+        "year": 2007
+    },
+    {
+        "id": 49,
+        "title": "Anime Title 49",
+        "type": "Manga",
+        "genre": [
+            "Adventure",
+            "Fantasy"
+        ],
+        "episodes_or_chapters": 100,
+        "status": "Completed",
+        "rating": 6.14,
+        "year": 2020
+    },
+    {
+        "id": 50,
+        "title": "Anime Title 50",
+        "type": "Anime",
+        "genre": [
+            "Sci-Fi",
+            "Adventure"
+        ],
+        "episodes_or_chapters": 162,
+        "status": "Completed",
+        "rating": 6.46,
+        "year": 2024
+    },
+    {
+        "id": 51,
+        "title": "Anime Title 51",
+        "type": "Manga",
+        "genre": [
+            "Mystery",
+            "Sci-Fi",
+            "Drama"
+        ],
+        "episodes_or_chapters": 171,
+        "status": "Ongoing",
+        "rating": 7.42,
+        "year": 1994
+    },
+    {
+        "id": 52,
+        "title": "Anime Title 52",
+        "type": "Anime",
+        "genre": [
+            "Mystery",
+            "Adventure"
+        ],
+        "episodes_or_chapters": 25,
+        "status": "Ongoing",
+        "rating": 8.82,
+        "year": 2012
+    },
+    {
+        "id": 53,
+        "title": "Anime Title 53",
+        "type": "Anime",
+        "genre": [
+            "Drama"
+        ],
+        "episodes_or_chapters": 57,
+        "status": "Ongoing",
+        "rating": 9.14,
+        "year": 2015
+    },
+    {
+        "id": 54,
+        "title": "Anime Title 54",
+        "type": "Manga",
+        "genre": [
+            "Mystery",
+            "Drama"
+        ],
+        "episodes_or_chapters": 141,
+        "status": "Hiatus",
+        "rating": 9.86,
+        "year": 2003
+    },
+    {
+        "id": 55,
+        "title": "Anime Title 55",
+        "type": "Manga",
+        "genre": [
+            "Mystery",
+            "Sci-Fi",
+            "Romance"
+        ],
+        "episodes_or_chapters": 164,
+        "status": "Completed",
+        "rating": 7.63,
+        "year": 2019
+    },
+    {
+        "id": 56,
+        "title": "Anime Title 56",
+        "type": "Anime",
+        "genre": [
+            "Fantasy"
+        ],
+        "episodes_or_chapters": 60,
+        "status": "Completed",
+        "rating": 9.28,
+        "year": 2000
+    },
+    {
+        "id": 57,
+        "title": "Anime Title 57",
+        "type": "Anime",
+        "genre": [
+            "Slice of Life",
+            "Horror"
+        ],
+        "episodes_or_chapters": 160,
+        "status": "Completed",
+        "rating": 8.81,
+        "year": 2017
+    },
+    {
+        "id": 58,
+        "title": "Anime Title 58",
+        "type": "Anime",
+        "genre": [
+            "Slice of Life",
+            "Sci-Fi"
+        ],
+        "episodes_or_chapters": 24,
+        "status": "Ongoing",
+        "rating": 7.86,
+        "year": 2008
+    },
+    {
+        "id": 59,
+        "title": "Anime Title 59",
+        "type": "Manga",
+        "genre": [
+            "Drama"
+        ],
+        "episodes_or_chapters": 22,
+        "status": "Ongoing",
+        "rating": 7.59,
+        "year": 2019
+    },
+    {
+        "id": 60,
+        "title": "Anime Title 60",
+        "type": "Anime",
+        "genre": [
+            "Horror",
+            "Fantasy"
+        ],
+        "episodes_or_chapters": 163,
+        "status": "Ongoing",
+        "rating": 9.41,
+        "year": 2011
+    },
+    {
+        "id": 61,
+        "title": "Anime Title 61",
+        "type": "Manga",
+        "genre": [
+            "Romance",
+            "Drama",
+            "Horror"
+        ],
+        "episodes_or_chapters": 26,
+        "status": "Hiatus",
+        "rating": 9.43,
+        "year": 2008
+    },
+    {
+        "id": 62,
+        "title": "Anime Title 62",
+        "type": "Anime",
+        "genre": [
+            "Comedy",
+            "Adventure"
+        ],
+        "episodes_or_chapters": 92,
+        "status": "Ongoing",
+        "rating": 6.92,
+        "year": 2014
+    },
+    {
+        "id": 63,
+        "title": "Anime Title 63",
+        "type": "Anime",
+        "genre": [
+            "Sci-Fi",
+            "Adventure"
+        ],
+        "episodes_or_chapters": 143,
+        "status": "Ongoing",
+        "rating": 7.99,
+        "year": 2013
+    },
+    {
+        "id": 64,
+        "title": "Anime Title 64",
+        "type": "Manga",
+        "genre": [
+            "Adventure",
+            "Comedy"
+        ],
+        "episodes_or_chapters": 142,
+        "status": "Completed",
+        "rating": 6.11,
+        "year": 2010
+    },
+    {
+        "id": 65,
+        "title": "Anime Title 65",
+        "type": "Anime",
+        "genre": [
+            "Adventure"
+        ],
+        "episodes_or_chapters": 119,
+        "status": "Hiatus",
+        "rating": 6.15,
+        "year": 1994
+    },
+    {
+        "id": 66,
+        "title": "Anime Title 66",
+        "type": "Manga",
+        "genre": [
+            "Sci-Fi"
+        ],
+        "episodes_or_chapters": 59,
+        "status": "Hiatus",
+        "rating": 9.17,
+        "year": 2018
+    },
+    {
+        "id": 67,
+        "title": "Anime Title 67",
+        "type": "Manga",
+        "genre": [
+            "Action"
+        ],
+        "episodes_or_chapters": 173,
+        "status": "Hiatus",
+        "rating": 8.55,
+        "year": 2011
+    },
+    {
+        "id": 68,
+        "title": "Anime Title 68",
+        "type": "Manga",
+        "genre": [
+            "Horror",
+            "Sci-Fi",
+            "Drama"
+        ],
+        "episodes_or_chapters": 83,
+        "status": "Completed",
+        "rating": 7.66,
+        "year": 2009
+    },
+    {
+        "id": 69,
+        "title": "Anime Title 69",
+        "type": "Manga",
+        "genre": [
+            "Drama"
+        ],
+        "episodes_or_chapters": 39,
+        "status": "Hiatus",
+        "rating": 7.97,
+        "year": 1991
+    },
+    {
+        "id": 70,
+        "title": "Anime Title 70",
+        "type": "Manga",
+        "genre": [
+            "Action",
+            "Fantasy"
+        ],
+        "episodes_or_chapters": 113,
+        "status": "Ongoing",
+        "rating": 7.89,
+        "year": 1998
+    },
+    {
+        "id": 71,
+        "title": "Anime Title 71",
+        "type": "Manga",
+        "genre": [
+            "Slice of Life",
+            "Horror"
+        ],
+        "episodes_or_chapters": 140,
+        "status": "Completed",
+        "rating": 6.72,
+        "year": 1991
+    },
+    {
+        "id": 72,
+        "title": "Anime Title 72",
+        "type": "Manga",
+        "genre": [
+            "Drama"
+        ],
+        "episodes_or_chapters": 158,
+        "status": "Hiatus",
+        "rating": 7.01,
+        "year": 1999
+    },
+    {
+        "id": 73,
+        "title": "Anime Title 73",
+        "type": "Anime",
+        "genre": [
+            "Mystery",
+            "Fantasy",
+            "Comedy"
+        ],
+        "episodes_or_chapters": 171,
+        "status": "Hiatus",
+        "rating": 8.71,
+        "year": 2021
+    },
+    {
+        "id": 74,
+        "title": "Anime Title 74",
+        "type": "Manga",
+        "genre": [
+            "Comedy",
+            "Mystery",
+            "Fantasy"
+        ],
+        "episodes_or_chapters": 128,
+        "status": "Hiatus",
+        "rating": 8.83,
+        "year": 1991
+    },
+    {
+        "id": 75,
+        "title": "Anime Title 75",
+        "type": "Manga",
+        "genre": [
+            "Action",
+            "Drama"
+        ],
+        "episodes_or_chapters": 33,
+        "status": "Ongoing",
+        "rating": 7.9,
+        "year": 2020
+    },
+    {
+        "id": 76,
+        "title": "Anime Title 76",
+        "type": "Anime",
+        "genre": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "episodes_or_chapters": 52,
+        "status": "Ongoing",
+        "rating": 9.7,
+        "year": 1992
+    },
+    {
+        "id": 77,
+        "title": "Anime Title 77",
+        "type": "Anime",
+        "genre": [
+            "Fantasy"
+        ],
+        "episodes_or_chapters": 69,
+        "status": "Ongoing",
+        "rating": 6.78,
+        "year": 2008
+    },
+    {
+        "id": 78,
+        "title": "Anime Title 78",
+        "type": "Manga",
+        "genre": [
+            "Sci-Fi"
+        ],
+        "episodes_or_chapters": 68,
+        "status": "Ongoing",
+        "rating": 8.29,
+        "year": 1994
+    },
+    {
+        "id": 79,
+        "title": "Anime Title 79",
+        "type": "Manga",
+        "genre": [
+            "Horror"
+        ],
+        "episodes_or_chapters": 64,
+        "status": "Hiatus",
+        "rating": 9.55,
+        "year": 2021
+    },
+    {
+        "id": 80,
+        "title": "Anime Title 80",
+        "type": "Manga",
+        "genre": [
+            "Drama",
+            "Horror",
+            "Slice of Life"
+        ],
+        "episodes_or_chapters": 62,
+        "status": "Ongoing",
+        "rating": 6.24,
+        "year": 1992
+    },
+    {
+        "id": 81,
+        "title": "Anime Title 81",
+        "type": "Manga",
+        "genre": [
+            "Sci-Fi",
+            "Action",
+            "Slice of Life"
+        ],
+        "episodes_or_chapters": 18,
+        "status": "Ongoing",
+        "rating": 9.9,
+        "year": 2019
+    },
+    {
+        "id": 82,
+        "title": "Anime Title 82",
+        "type": "Manga",
+        "genre": [
+            "Action",
+            "Mystery"
+        ],
+        "episodes_or_chapters": 35,
+        "status": "Hiatus",
+        "rating": 9.88,
+        "year": 2005
+    },
+    {
+        "id": 83,
+        "title": "Anime Title 83",
+        "type": "Anime",
+        "genre": [
+            "Fantasy",
+            "Comedy",
+            "Horror"
+        ],
+        "episodes_or_chapters": 63,
+        "status": "Hiatus",
+        "rating": 8.5,
+        "year": 2000
+    },
+    {
+        "id": 84,
+        "title": "Anime Title 84",
+        "type": "Anime",
+        "genre": [
+            "Fantasy"
+        ],
+        "episodes_or_chapters": 38,
+        "status": "Completed",
+        "rating": 7.76,
+        "year": 1999
+    },
+    {
+        "id": 85,
+        "title": "Anime Title 85",
+        "type": "Manga",
+        "genre": [
+            "Sci-Fi"
+        ],
+        "episodes_or_chapters": 12,
+        "status": "Ongoing",
+        "rating": 9.53,
+        "year": 1996
+    },
+    {
+        "id": 86,
+        "title": "Anime Title 86",
+        "type": "Anime",
+        "genre": [
+            "Sci-Fi",
+            "Slice of Life",
+            "Romance"
+        ],
+        "episodes_or_chapters": 147,
+        "status": "Ongoing",
+        "rating": 9.26,
+        "year": 2011
+    },
+    {
+        "id": 87,
+        "title": "Anime Title 87",
+        "type": "Manga",
+        "genre": [
+            "Comedy",
+            "Drama",
+            "Mystery"
+        ],
+        "episodes_or_chapters": 171,
+        "status": "Ongoing",
+        "rating": 9.41,
+        "year": 2008
+    },
+    {
+        "id": 88,
+        "title": "Anime Title 88",
+        "type": "Manga",
+        "genre": [
+            "Comedy",
+            "Horror"
+        ],
+        "episodes_or_chapters": 173,
+        "status": "Hiatus",
+        "rating": 7.7,
+        "year": 1999
+    },
+    {
+        "id": 89,
+        "title": "Anime Title 89",
+        "type": "Manga",
+        "genre": [
+            "Romance",
+            "Slice of Life",
+            "Action"
+        ],
+        "episodes_or_chapters": 66,
+        "status": "Ongoing",
+        "rating": 9.77,
+        "year": 2021
+    },
+    {
+        "id": 90,
+        "title": "Anime Title 90",
+        "type": "Manga",
+        "genre": [
+            "Action"
+        ],
+        "episodes_or_chapters": 80,
+        "status": "Completed",
+        "rating": 7.49,
+        "year": 1999
+    },
+    {
+        "id": 91,
+        "title": "Anime Title 91",
+        "type": "Manga",
+        "genre": [
+            "Comedy",
+            "Adventure",
+            "Drama"
+        ],
+        "episodes_or_chapters": 80,
+        "status": "Ongoing",
+        "rating": 7.44,
+        "year": 2004
+    },
+    {
+        "id": 92,
+        "title": "Anime Title 92",
+        "type": "Anime",
+        "genre": [
+            "Adventure",
+            "Horror"
+        ],
+        "episodes_or_chapters": 178,
+        "status": "Completed",
+        "rating": 9.81,
+        "year": 2019
+    },
+    {
+        "id": 93,
+        "title": "Anime Title 93",
+        "type": "Manga",
+        "genre": [
+            "Sci-Fi"
+        ],
+        "episodes_or_chapters": 160,
+        "status": "Ongoing",
+        "rating": 7.97,
+        "year": 2003
+    },
+    {
+        "id": 94,
+        "title": "Anime Title 94",
+        "type": "Anime",
+        "genre": [
+            "Fantasy",
+            "Romance"
+        ],
+        "episodes_or_chapters": 85,
+        "status": "Hiatus",
+        "rating": 6.66,
+        "year": 1991
+    },
+    {
+        "id": 95,
+        "title": "Anime Title 95",
+        "type": "Anime",
+        "genre": [
+            "Drama",
+            "Slice of Life"
+        ],
+        "episodes_or_chapters": 147,
+        "status": "Hiatus",
+        "rating": 6.67,
+        "year": 2002
+    },
+    {
+        "id": 96,
+        "title": "Anime Title 96",
+        "type": "Anime",
+        "genre": [
+            "Slice of Life",
+            "Comedy",
+            "Horror"
+        ],
+        "episodes_or_chapters": 39,
+        "status": "Hiatus",
+        "rating": 9.79,
+        "year": 2009
+    },
+    {
+        "id": 97,
+        "title": "Anime Title 97",
+        "type": "Anime",
+        "genre": [
+            "Mystery",
+            "Action"
+        ],
+        "episodes_or_chapters": 84,
+        "status": "Hiatus",
+        "rating": 9.3,
+        "year": 2004
+    },
+    {
+        "id": 98,
+        "title": "Anime Title 98",
+        "type": "Anime",
+        "genre": [
+            "Slice of Life",
+            "Sci-Fi",
+            "Adventure"
+        ],
+        "episodes_or_chapters": 119,
+        "status": "Ongoing",
+        "rating": 7.7,
+        "year": 2006
+    },
+    {
+        "id": 99,
+        "title": "Anime Title 99",
+        "type": "Manga",
+        "genre": [
+            "Adventure"
+        ],
+        "episodes_or_chapters": 181,
+        "status": "Completed",
+        "rating": 8.12,
+        "year": 2004
+    },
+    {
+        "id": 100,
+        "title": "Anime Title 100",
+        "type": "Manga",
+        "genre": [
+            "Adventure"
+        ],
+        "episodes_or_chapters": 150,
+        "status": "Hiatus",
+        "rating": 8.22,
+        "year": 1996
+    }
+]
