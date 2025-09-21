@@ -64,11 +64,15 @@ All large datasets are managed using **Git LFS** to comply with GitHub file size
    ```bash
    git clone https://github.com/UstubecEmre/PandasForDataAnalysis.git
    cd PandasForDataAnalysis
+   ```
 
 ⭐️ If you find this helpful...
 Please give the repo a ⭐ and feel free to open issues or contribute!
 
-👨‍💻 Developer
-UstubecEmre
-📧 emresb1999@gmail.com
-🔗 GitHub Profile
+## **👨‍💻 Developer**
+
+**Developer**: **UstubecEmre**
+
+**📧 emresb1999@gmail.com**
+
+**🔗 GitHub Profile** : **UstubecEmre**
